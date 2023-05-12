@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "kucing",
+        "image": "/images/image1.jpeg"
+    },
+    {
+        "id": "2",
+        "name": "Anjing",
+        "image": "/images/anjing.jpeg"
+    },
+    {
+        "id": "3",
+        "name": "Monyet",
+        "image": "/images/image1.jpeg"
+    },
+    {
+        "id": "4",
+        "name": "Babi",
+        "image": "/images/image1.jpeg"
+    },
+    {
+        "id": "5",
+        "name": "Buaya",
+        "image": "/images/image1.jpeg"
+    }
+]
